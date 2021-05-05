@@ -12,6 +12,6 @@ const personalMovieDB = {
  d = prompt('Rating','');
  personalMovieDB.movies[a] = b;
  personalMovieDB.movies[c] = d;
-
+//hello;
 
  console.log(personalMovieDB);
